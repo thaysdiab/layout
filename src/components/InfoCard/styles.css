@@ -1,0 +1,50 @@
+.infocard {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0 5%;
+    margin-top: 48px;
+}
+
+.infocard-text{
+    width: 420px;
+}
+
+.infocard-text h1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 37px;
+}
+
+.infocard-text p {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 21px;
+    text-align: left;
+}
+
+.infocard-banner img{
+    width: 680px;
+}
+
+@media screen and (max-width: 1023px) {
+    .infocard {
+        display: flex!important;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0 31px;
+        margin-top: 24px;
+    }
+    .infocard-text{
+        width: 100%;
+    }
+    .infocard-text p {
+        margin-top: 16px;
+    }
+    .infocard-banner img {
+        width: 298px;
+        margin-top: 24px;
+    }
+}

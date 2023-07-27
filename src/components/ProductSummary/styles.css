@@ -1,0 +1,21 @@
+.shelf .shelf-title{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    color: #353535;
+}
+.shelf .slick-track{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .shelf .slick-list {
+        padding: 0px 25px!important;
+    }
+}
