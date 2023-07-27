@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/layout/static/css/main.9b422cf0.css",
+    "main.js": "/layout/static/js/main.96eea8a1.js",
+    "static/media/banner-desktop.png": "/layout/static/media/banner-desktop.952e09cce1f63f1abfd6.png",
+    "static/media/infocard-banner.png": "/layout/static/media/infocard-banner.c59ba00767fea82b9b0e.png",
+    "static/media/banner-mobile.png": "/layout/static/media/banner-mobile.f410a5b65c4e05d9be63.png",
+    "static/media/product-image2.png": "/layout/static/media/product-image2.773de2b96bcf382456c9.png",
+    "static/media/product-image1.png": "/layout/static/media/product-image1.4d479b30c010a0f5dfec.png",
+    "index.html": "/layout/index.html",
+    "main.9b422cf0.css.map": "/layout/static/css/main.9b422cf0.css.map",
+    "main.96eea8a1.js.map": "/layout/static/js/main.96eea8a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b422cf0.css",
+    "static/js/main.96eea8a1.js"
+  ]
+}
